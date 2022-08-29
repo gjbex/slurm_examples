@@ -10,6 +10,8 @@ Examples of slurm use cases
    processes spread out to maximize memory bandwidth (alternative approach).
 1. `mpmd.slurm`: running multiple applications in parallel in the same job (Multiple
    Process, Multiple Data).
+1. `hybrid_openmpi.slurm`: running a hybrid OpenMP/MPI application on multiple nodes
+   with process/thread binding.
 
 ## Requirements
 
