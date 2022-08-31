@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+/usr/bin/qsub -N 'test_worker_threads.pbs' worker.pbs

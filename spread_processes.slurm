@@ -11,4 +11,4 @@ export I_MPI_PIN=1
 export I_MPI_PIN_DOMAIN=4
 export I_MPI_JOB_RESPECT_PROCESS_PLACEMENT=disable
 
-mpirun -np 4  ./mem_limit -m 3gb -i 500mb -s 2s -l 5s
+mpirun -np 4  mem_limit/mem_limit -m 3gb -i 500mb -s 2s -l 5s
