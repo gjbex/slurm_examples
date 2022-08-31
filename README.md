@@ -12,6 +12,7 @@ Examples of slurm use cases
    Process, Multiple Data).
 1. `hybrid_openmpi.slurm`: running a hybrid OpenMP/MPI application on multiple nodes
    with process/thread binding.
+1. `heterogeneous.slurm`: running applications that each require specific resources.
 1. `mem_limit`: application that is used in some of the examples.
 
 ## Requirements
