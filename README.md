@@ -1,6 +1,6 @@
-# Slurm_examples
+# Slurm examples
 
-Examples of slurm use cases
+Examples of non-trivial slurm use cases.
 
 ## What is it?
 
